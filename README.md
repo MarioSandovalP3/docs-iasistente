@@ -9,7 +9,7 @@ Características principales:
 
 * **Interfaz flotante** moderna y profesional que se integra elegantemente en tu sitio.
 * **Respuestas basadas en los datos de tu empresa** cargados en formato JSON.
-* **Configuración sencilla** de la API de inteligencia artificial (OpenAI, Deepseek o compatible).
+* **Configuración sencilla** de la API de inteligencia artificial OpenAI, Deepseek, OpenRouter (o compatible).
 * **Personalización completa del diseño**: ajusta colores, posición y título para que coincida con tu marca.
 * **Completamente responsive**: funciona perfectamente en dispositivos móviles y tablets.
 * **Soporte para Markdown** en las respuestas para un formato enriquecido.
